@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Paging3Migrate</string>
+    <string name="on_loading_more">正在努力加载更多..</string>
+    <string name="retry_load_hint">加载出错, 点击重新加载..</string>
+    <string name="header_hint">我是一个 Header, 你看看就好, 或者你点下看看</string>
+</resources>
